@@ -32,3 +32,6 @@
 *.out
 *.app
 bin/*
+
+# backup
+public/backup/*
